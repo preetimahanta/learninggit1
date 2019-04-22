@@ -10,3 +10,10 @@ Learn git Part-1:
 6)git push origin master
 7)git clone repoName
 8)git pull origin master
+
+Learn git Part-2:
+1)git branch  
+2)git branch newBranchName
+3)git checkout redirectingToBranchName
+4)ls
+5)git merge newCreatedBranchName
